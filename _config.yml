@@ -1,0 +1,28 @@
+name: robertreed
+favicon: null
+layout_spectrum: 0.46114565851166844
+typography_spectrum: 0.4224835382774472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9245778557378799
+  lightness: 0.8914858505595475
+  saturation: 0.26254489179700613
+  rhythmicContrast: 0.6917861646506935
+purpose: []
